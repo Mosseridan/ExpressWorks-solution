@@ -1,6 +1,6 @@
 // STATIC
 if(process.argc < 3)
-    console.log("Usage: task2.js <PORT>, <INDEX.HTML>");
+    console.log("Usage: task2.js <PORT> <INDEX.HTML>");
 
 const express = require("express");
 var app = express();
