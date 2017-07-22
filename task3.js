@@ -1,6 +1,6 @@
 // JADE
 if(process.argc < 4)
-    console.log("Usage: task2.js <PORT> <INDEX.HTML>");
+    console.log("Usage: task3.js <PORT> <PATH>");
 
 const express = require("express");
 var app = express();
